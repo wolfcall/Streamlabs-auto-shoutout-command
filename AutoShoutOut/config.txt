@@ -1,0 +1,6 @@
+#Config File
+#Seperate triggers with ,
+#Do not insert spaces
+//All you have todo is enter the list of people to shout out.
+trigger_words=
+command_level=Everyone
